@@ -5,6 +5,12 @@
 /HelperProject.Common/bin
 /HelperProject.Logic/bin
 
+/Projects/Cryptography/bin
+
+
+
 # Obj Files
 /HelperProject.Common/obj
 /HelperProject.Logic/obj
+
+/Projects/Cryptography/obj
