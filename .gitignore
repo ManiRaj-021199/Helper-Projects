@@ -1,0 +1,8 @@
+﻿# Editor Configs
+/.vs
+
+# Bin Files
+/HelperProject.Common/bin
+
+# Obj Files
+/HelperProject.Common/obj
