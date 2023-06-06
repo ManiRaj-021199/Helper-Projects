@@ -3,6 +3,8 @@
 
 # Bin Files
 /HelperProject.Common/bin
+/HelperProject.Logic/bin
 
 # Obj Files
 /HelperProject.Common/obj
+/HelperProject.Logic/obj
